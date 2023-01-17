@@ -1,0 +1,19 @@
+- This will be used; to test--our input
+- Multiple lines!  Will be used--including acronyms?
+- Let's test other items/things
+-  This line uses two spaces after a hyphen
+- This line has a space used with '--' characters test-- test
+
+
+We can also use this to test complete $10,000
+
+sentences that also have line breaks built in! This
+will ensure we get, everything right.
+
+These are some misspelled words (there should be four in the output list): fortisssde, reoirjhg, potaato, combb
+
+We also want to ensure abbreviations don't get picked up by the spell checker: capt, stdnt, lt gen
+
+- Acronym test: DO--CAT CAR BAT
+
+repeat test:
