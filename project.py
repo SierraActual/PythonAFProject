@@ -1,5 +1,3 @@
-# This is a change test.
-
 from spellchecker import SpellChecker
 spell = SpellChecker()
 import re
